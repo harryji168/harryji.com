@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name":"Harry Ji",
+    "description":"I am a web development engineer and I use react and vue.js to develop pages",
+    "image":"harryji.png",
+    "bio":" Certified IT professional with 10+ years keep upgrading skills and experience at Full-stack Development.I offered one-stop creative solutions that included UI/UX Design, Development, Promotion, Hosting, and E-commerce services, building different Web and Mobile applications, including Andriod, IOS, Desktop, and Raspberry Pi Apps. In addition, I acted as a system engineer and database administrator. I already have provided successful business solutions for over 180 clients from Greater Vancouver to Victoria Island to Alberta in Canada and the USA, Taiwan, China, Thailand, Germany, and Japan ...",
+    "contactmessage":"Welcome to contact me. Let me know how I can help you.",
+    "email": "jiharry@hotmail.com",
+    "phone": "778-887-8868",
+    "github":"https://github.com/harryji168",
+    "project":"https://github.com/harryji168",
+    "address":{ 
+      "city":"New Westminster",
+      "state":"BC, Canada",
+      "zip": "V3M 0A1"
+    },
+    "website": "https://www.harryji.com",
+    "resumedownload":"http://www.harryji.com/HarryJi_Resume.pdf",
+    "social":[
+      
+      {
+        "name":"linkedin",
+        "url": "https://www.linkedin.com/in/harryji/",
+        "className":"fa fa-linkedin"
+      },     
+      {
+        "name":"github",
+        "url": "https://github.com/harryji168",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"cutting edge innovative and comprehensive skills",
+    "education":[
+      {
+        "school":"BCIT, Vancouver, Canada"
+      },
+      {
+        "school":"CodeCore College, New Westminster, Canada",
+        "degree":"Diploma of Developer Bootcamp ", 
+        "description":"93% score, learned real-world training in software architecture and development methodologies and processes."
+      },
+      {
+        "school":"Inet school,Vancouver, Canada",
+        "degree":"Diploma of Advanced Internet Development", 
+        "description":"Eight months finished 12 months courses, Learned comprehensive skill, design, development and internet promotion."
+      },
+      {
+        "school":"Tianjin University of FE, China",
+        "degree":"Bachelor of Information technology", 
+        "description":"Learned fundamentals of coding, programming languages, and Information technology"
+      }
+    ],
+    "work":[     
+      {
+        "company":"Tour Booking System",
+        "title":"Xotours Ltd.",
+        "years":"Aug - Oct 2021",
+        "description":"XO TOURS Ltd. is the largest tour company in the Chinese community. This company has branches located in Canada, the USA, Taiwan, and China. I provide a tour booking system that includes creating multiple templates for different site sections, combined calendars, price tables, and shopping carts with comparison functions, related products, and payment features. I also created Apple and Andriod mobile applications."
+      },
+      {
+        "company":"Wholesale Ecommerce System",
+        "title":"MLI Canada Enterprises Corp.",
+        "years":"Jun - Aug 2021",
+        "description":"MLI CANADA ENTERPRISE is a leading wholesaler, distributor, and factory broker of food packaging products. I advanced price management systems on this project, developed a multi-level pricing scheme for different customer segments, improved catalog management, and manage product attributes. Supported sales management, inventory management, and front-end customer search using other conditions. "
+      },
+      {
+        "title":"Alive Health", 
+        "description":"Alive is a monthly Canadian natural health and wellness magazine. I provided an e-commerce system for selling their healthy products Online for their products branch."
+      },
+      {
+        "title":"Würth Group (German)", 
+        "description":"The Würth Group is a worldwide wholesaler of fasteners, tools, chemicals, automotive hardware. Würth was founded in 1945 by Adolf Würth. I provided an accounting and inventory management system for their branches in five cities."
+      },
+      {
+        "title":"Mitsumi Electric (Japan)", 
+        "description":"The Mitsumi Electric Co., Ltd. is a Japanese manufacturer of consumer electronic components, founded in 1954. I provided human resources and accounting system for their branch."
+      },
+      {
+        "title":"Fulinmen Grain and Oil (Thailand)", 
+        "description":"For the most prominent grains and oil processing groups, I provided a sales system for their three branches."
+      },
+      {
+        "title":"Owner Hooks (Japan)", 
+        "description":"One of the leading fishing devices suppliers, I provided their branch with a sales and inventory management system."
+      },
+      {
+        "title":"Motorola Inc.(USA)", 
+        "description":"American multinational telecommunications company, I provided computer system support for their branch."
+      },
+      {
+        "title":"Samsung Group (Korea)", 
+        "description":"South Korean multinational manufacturing conglomerate, I provided computer system support for their branch."
+      }
+    ],
+    "skills":[    
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"Rails",
+        "level":"70%"
+      },
+      {
+        "name":"Node.js",
+        "level":"70%"
+      },
+      {
+        "name":"jQuery",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"90%"
+      }
+     
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+     
+      }      
+    ]
+  }
+}
