@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/harryji.com/static/css/main.bab0b925.chunk.css",
+    "main.js": "/harryji.com/static/js/main.a07d262b.chunk.js",
+    "main.js.map": "/harryji.com/static/js/main.a07d262b.chunk.js.map",
+    "runtime-main.js": "/harryji.com/static/js/runtime-main.2c8b2ff3.js",
+    "runtime-main.js.map": "/harryji.com/static/js/runtime-main.2c8b2ff3.js.map",
+    "static/js/2.83df93bb.chunk.js": "/harryji.com/static/js/2.83df93bb.chunk.js",
+    "static/js/2.83df93bb.chunk.js.map": "/harryji.com/static/js/2.83df93bb.chunk.js.map",
+    "static/js/3.88812910.chunk.js": "/harryji.com/static/js/3.88812910.chunk.js",
+    "static/js/3.88812910.chunk.js.map": "/harryji.com/static/js/3.88812910.chunk.js.map",
+    "index.html": "/harryji.com/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/harryji.com/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.83df93bb.chunk.js.LICENSE.txt": "/harryji.com/static/js/2.83df93bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c8b2ff3.js",
+    "static/js/2.83df93bb.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.a07d262b.chunk.js"
+  ]
+}

@@ -1,0 +1,29 @@
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2.4.0/dist/email.min.js">
+</script>
+<script type="text/javascript">
+  (function() {
+    emailjs.init("user_9BH9p58zbegmGfuX442is"); //please encrypted user id for malicious attacks
+  })();
+//set the parameter as per you template parameter[https://dashboard.emailjs.com/templates]
+  var templateParams = {
+    to_name: 'Harry',
+    from_name: 'abc',
+    message_html: 'Please Find out the attached file'
+  };
+
+  emailjs.send('service_9ts8a5o', 'template_yrdca8a', templateParams)
+    .then(function(response) {
+      console.log('SUCCESS!', response.status, response.text);
+    }, function(error) {
+      console.log('FAILED...', error);
+    });
+</script>
+
+
+curl --request POST 'https://api.emailjs.com/api/v1.0/email/send' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+"user_id": "user_9BH9p58zbegmGfuX442is",
+"service_id": "service_9ts8a5o",
+"template_id": "template_yrdca8a",
+}'
